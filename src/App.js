@@ -5,7 +5,7 @@ import ImageGallery from 'react-image-gallery'
 import WhatsAppButton from './WhatsAppButton'; // Ajuste o caminho de acordo com a sua estrutura de pastas
 
 // const PREFIX_URL = 'https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/';
-const PREFIX_URL = './assets/img/';
+const PREFIX_URL = './img/';
 
 
 class App extends React.Component {
@@ -91,29 +91,29 @@ class App extends React.Component {
   _getStaticImages() {
 
     var imageNames = [
+      "frente2.jpg",
       "sala.jpg",
       "sala_banheiro_cozinha.jpg",
       "sala_banheiro.jpg",
-      "banheiro1.jpg",
-      "banheiro2.jpg",
-      "banheiro3.jpg",
-      "banheiro4.jpg",
       "cozinha1.jpg",
       "cozinha2.jpg",
       "cozinha3.jpg",
-      "banheiro5.jpg",
       "cozinha_quintal.jpg",
-      "fachada.jpg",
-      "frente1.jpg",
-      "frente2.jpg",
-      "frente_porta_aberta2.jpg",
-      "frente_porta_aberta1.jpg",
-      "primeiro_andar.jpg",
+      // "frente1.jpg",
       "quarto1.jpg",
       "quarto2.jpg",
-      "quarto3.jpg",
+      // "quarto3.jpg",
       "quarto4.jpg",
-      "quintal.jpg",
+      // "quintal.jpg",
+      "banheiro1.jpg",
+      "banheiro5.jpg",
+      "banheiro3.jpg",
+      "banheiro4.jpg",
+      "banheiro2.jpg",
+      "frente_porta_aberta2.jpg",
+      // "frente_porta_aberta1.jpg",
+      "primeiro_andar.jpg",
+      "fachada.jpg",
 
 
     ];
