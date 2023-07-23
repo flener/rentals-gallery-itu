@@ -204,6 +204,7 @@ class App extends React.Component {
   render() {
     const message = "Olá! Estou interessado no apartamento para alugar.";
     const phoneNumber = "5511964500515"; // substitua pelo número de telefone desejado
+    const phoneNumberView = "(11) 9 6450-0515"; // substitua pelo número de telefone desejado
 
     return (
       <section className='app'>
@@ -369,7 +370,7 @@ class App extends React.Component {
           <p class="app-text">Mas o que realmente torna este apartamento especial são os benefícios inclusos. Você não precisa se preocupar com contas de água e gás - elas já estão incluídas no aluguel! Além disso, o IPTU também é por nossa conta. E para completar, você terá à sua disposição uma vaga de garagem, proporcionando segurança e comodidade para o seu veículo.</p>
           <p class="app-text">A localização é outro ponto forte deste imóvel. Situado próximo ao shopping, você terá fácil acesso a uma variedade de lojas, restaurantes e entretenimento. Além disso, a região é bem servida por transportes públicos, tornando o seu dia a dia ainda mais prático.</p>
           <p class="app-text app-highlight">Não perca esta oportunidade de viver em um lugar que oferece conforto, comodidade e uma excelente localização. Entre em contato conosco hoje mesmo e agende uma visita!</p>
-          <WhatsAppButton phoneNumber={phoneNumber} message={message} />
+          <WhatsAppButton phoneNumber={phoneNumber} phoneNumberView={phoneNumberView} message={message} />
         </div>
       </section>
     );
