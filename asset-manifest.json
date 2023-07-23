@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.72c61874.css",
-    "main.js": "/static/js/main.3157272d.js",
-    "static/js/787.8b4c511b.chunk.js": "/static/js/787.8b4c511b.chunk.js",
-    "index.html": "/index.html",
-    "main.72c61874.css.map": "/static/css/main.72c61874.css.map",
-    "main.3157272d.js.map": "/static/js/main.3157272d.js.map",
-    "787.8b4c511b.chunk.js.map": "/static/js/787.8b4c511b.chunk.js.map"
+    "main.css": "http://flener.github.io/rentals-gallery-itu/static/css/main.72c61874.css",
+    "main.js": "http://flener.github.io/rentals-gallery-itu/static/js/main.ac0700d7.js",
+    "static/js/787.8b4c511b.chunk.js": "http://flener.github.io/rentals-gallery-itu/static/js/787.8b4c511b.chunk.js",
+    "index.html": "http://flener.github.io/rentals-gallery-itu/index.html",
+    "main.72c61874.css.map": "http://flener.github.io/rentals-gallery-itu/static/css/main.72c61874.css.map",
+    "main.ac0700d7.js.map": "http://flener.github.io/rentals-gallery-itu/static/js/main.ac0700d7.js.map",
+    "787.8b4c511b.chunk.js.map": "http://flener.github.io/rentals-gallery-itu/static/js/787.8b4c511b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72c61874.css",
-    "static/js/main.3157272d.js"
+    "static/js/main.ac0700d7.js"
   ]
 }
