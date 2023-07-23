@@ -366,7 +366,7 @@ class App extends React.Component {
 
         </div>
         <div class="app-container">
-          <p class="app-text">Apresentamos um apartamento aconchegante e bem localizado, pronto para você chamar de lar. Com um quarto espaçoso, sala de estar confortável, cozinha totalmente equipada e um banheiro moderno, este apartamento tem tudo o que você precisa para viver com conforto e estilo.</p>
+          <p class="app-text">Apresentamos um apartamento aconchegante e bem localizado, pronto para você chamar de lar. Com um quarto com guarda-roupa, sala de estar confortável, cozinha com armárino e gabinete de pia e um banheiro equipado com gabinete e box. Este apartamento tem tudo o que você precisa para viver com conforto e estilo.</p>
           <p class="app-text">Mas o que realmente torna este apartamento especial são os benefícios inclusos. Você não precisa se preocupar com contas de água e gás - elas já estão incluídas no aluguel! Além disso, o IPTU também é por nossa conta. E para completar, você terá à sua disposição uma vaga de garagem, proporcionando segurança e comodidade para o seu veículo.</p>
           <p class="app-text">A localização é outro ponto forte deste imóvel. Situado próximo ao shopping, você terá fácil acesso a uma variedade de lojas, restaurantes e entretenimento. Além disso, a região é bem servida por transportes públicos, tornando o seu dia a dia ainda mais prático.</p>
           <p class="app-text app-highlight">Não perca esta oportunidade de viver em um lugar que oferece conforto, comodidade e uma excelente localização. Entre em contato conosco hoje mesmo e agende uma visita!</p>

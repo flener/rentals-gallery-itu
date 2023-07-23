@@ -245,6 +245,8 @@ input.app-interval-input {
   border: none;
   text-decoration: none;
   transition: background-color 0.3s ease;
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
 
 .whatsapp-button:hover {
