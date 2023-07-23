@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rentals-gallery-itu/static/css/main.72c61874.css",
-    "main.js": "/rentals-gallery-itu/static/js/main.ccbe41de.js",
+    "main.js": "/rentals-gallery-itu/static/js/main.c1ec0d37.js",
     "static/js/787.8b4c511b.chunk.js": "/rentals-gallery-itu/static/js/787.8b4c511b.chunk.js",
     "index.html": "/rentals-gallery-itu/index.html",
     "main.72c61874.css.map": "/rentals-gallery-itu/static/css/main.72c61874.css.map",
-    "main.ccbe41de.js.map": "/rentals-gallery-itu/static/js/main.ccbe41de.js.map",
+    "main.c1ec0d37.js.map": "/rentals-gallery-itu/static/js/main.c1ec0d37.js.map",
     "787.8b4c511b.chunk.js.map": "/rentals-gallery-itu/static/js/787.8b4c511b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72c61874.css",
-    "static/js/main.ccbe41de.js"
+    "static/js/main.c1ec0d37.js"
   ]
 }
